@@ -7,3 +7,5 @@ Segundo commit para teste via VSCode clicando no botão da barra interior azul, 
 
 
 ### Terceira alteração para teste das "Hashtags" como comando da Linguagem Markdown, bem como do refoço dos comandos por meio do VSCode.
+
+# Quarta alteração no VSCode.
